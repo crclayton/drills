@@ -204,6 +204,6 @@ $(function () {
            	txtArea.value += activities[i] + "\n";
         }
 
-        $("#activities").attr("rows", activities.length + 1);
+        $("#activitity").attr("rows", activities.length + 1);
     }
 });
