@@ -21,7 +21,7 @@ $(function () {
         range: "max",
         min: 0,
         max: 2,
-        value: 1.2,
+        value: 1.5,
         step: 0.01
     });
 
